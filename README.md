@@ -3,7 +3,7 @@ Calculate percentage of missing data and unapplicable characters in morphologica
 ======================
 
 ##Summary
-This script is a "dirty" rapid way to assess the percentage of missing data and non-application characters in your morphological matrix. It also provides the percentage of taxa that was not scored for a given character.
+This script is a "dirty" rapid way to assess the percentage of missing data (`?`) and unapplicable characters (`-`) in your morphological matrix. It also provides the percentage of taxa that was not scored for a given character.
 
 
 ###Program
