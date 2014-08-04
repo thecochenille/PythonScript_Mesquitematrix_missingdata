@@ -34,7 +34,7 @@ Put `missing.py` and you nexus file in the same directory then type:
 ##Output
 
 There is no output file in this version of the script but print in the Terminal will first list the name of your taxon as well as percentage of missing data and non-applicable characters.
-The second list will be the character number with the percentage of taxa for which it has been scored. Finally, for each list, the taxa or characters are ordered by increasing number of missing data.See Example section for a look at the output.
+The second list will be the character number with the percentage of taxa for which it has not been scored. Finally, for each list, the taxa or characters are ordered by increasing number of missing data. Run example file to have a look at the output.
 
 
 ##Example
